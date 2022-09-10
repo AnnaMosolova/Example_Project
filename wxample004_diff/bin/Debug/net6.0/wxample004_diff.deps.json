@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "wxample004_diff/1.0.0": {
+        "runtime": {
+          "wxample004_diff.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "wxample004_diff/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
