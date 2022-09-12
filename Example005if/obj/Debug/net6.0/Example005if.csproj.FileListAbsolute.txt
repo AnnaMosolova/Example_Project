@@ -3,3 +3,13 @@ C:\Users\MOSTOVV\Desktop\Example\Example005if\obj\Debug\net6.0\Example005if.Gene
 C:\Users\MOSTOVV\Desktop\Example\Example005if\obj\Debug\net6.0\Example005if.AssemblyInfoInputs.cache
 C:\Users\MOSTOVV\Desktop\Example\Example005if\obj\Debug\net6.0\Example005if.AssemblyInfo.cs
 C:\Users\MOSTOVV\Desktop\Example\Example005if\obj\Debug\net6.0\Example005if.csproj.CoreCompileInputs.cache
+C:\Users\MOSTOVV\Desktop\Example\Example005if\bin\Debug\net6.0\Example005if.exe
+C:\Users\MOSTOVV\Desktop\Example\Example005if\bin\Debug\net6.0\Example005if.deps.json
+C:\Users\MOSTOVV\Desktop\Example\Example005if\bin\Debug\net6.0\Example005if.runtimeconfig.json
+C:\Users\MOSTOVV\Desktop\Example\Example005if\bin\Debug\net6.0\Example005if.dll
+C:\Users\MOSTOVV\Desktop\Example\Example005if\bin\Debug\net6.0\Example005if.pdb
+C:\Users\MOSTOVV\Desktop\Example\Example005if\obj\Debug\net6.0\Example005if.dll
+C:\Users\MOSTOVV\Desktop\Example\Example005if\obj\Debug\net6.0\refint\Example005if.dll
+C:\Users\MOSTOVV\Desktop\Example\Example005if\obj\Debug\net6.0\Example005if.pdb
+C:\Users\MOSTOVV\Desktop\Example\Example005if\obj\Debug\net6.0\Example005if.genruntimeconfig.cache
+C:\Users\MOSTOVV\Desktop\Example\Example005if\obj\Debug\net6.0\ref\Example005if.dll
